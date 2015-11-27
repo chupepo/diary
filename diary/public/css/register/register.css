@@ -1,0 +1,12 @@
+.panel{
+	margin-top: 20px;
+
+}
+body {
+	background-image: url("/img/diary1.jpg");
+	background-repeat:no-repeat;
+  	background-attachment: fixed;
+  	background-position: center center;
+  	background-size: cover;
+
+}
